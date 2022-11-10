@@ -3,7 +3,7 @@
 
 ## Current Data Science Projects: An adventure into patience and understanding
 
-### Project 1: Machine Learning Lab
+### [Project 1: Machine Learning Lab](https://github.com/rickkobayashiphd/mandel)
 
 "A not-so-serious tool to find Machine Learning Lab friends"
 
