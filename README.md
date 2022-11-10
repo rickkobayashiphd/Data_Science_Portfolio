@@ -1,7 +1,7 @@
-# Rick Kobayashi
-"Welcome to my Data Science Portfolio. I'm an aspiring Data Scientist. I help people work."
+# **Rick Kobayashi**
+**_"Welcome to my Data Science Portfolio. I'm an aspiring Data Scientist. I help people work."_**
 
-## Current Data Science Projects: an exercise in patience and understanding
+## Current Data Science Projects: An adventure into patience and understanding
 ---
 
 ### Project 1: Machine Learning Lab
@@ -47,7 +47,7 @@
 
 ---
 
-## About
+## **About**
 
 I am your hard-working PhD, problem solver, and operations manager. I help people work. Now as an aspiring Data Scientist, I seek an internship or volunteer position where I can become better at solving complex problems and serve others with actionable data-driven guidance. 
 
@@ -59,8 +59,7 @@ Well, if you made it this far, here is a shameless plug. I am the co-founder of 
 
 ---
 
-## Contact
-email: rkobaya@hawaii.edu
+## **Contact**
 
 LinkedIn: https://www.linkedin.com/in/richardkobayashi/
 
