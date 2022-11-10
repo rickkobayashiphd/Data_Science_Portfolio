@@ -1,5 +1,5 @@
 # Rick Kobayashi
-##Current Data Science Projects: an exercise in patience and understanding
+## Current Data Science Projects: an exercise in patience and understanding
 ---
 
 ### Project 1: Machine Learning Lab
