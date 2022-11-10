@@ -1,4 +1,6 @@
 # Rick Kobayashi
+"Welcome to my Data Science Portfolio. I'm an aspiring Data Scientist. I help people work."
+
 ## Current Data Science Projects: an exercise in patience and understanding
 ---
 
@@ -44,3 +46,24 @@
 ![Results](images/tribrid.png "Model Comparison")
 
 ---
+
+## About
+---
+![Rick](images/Rick.jpg)
+
+I am your hard-working PhD, problem solver, and operations manager. I help people work. Now as an aspiring Data Scientist, I seek an internship or volunteer position where I can become better at solving complex problems and serve others with actionable data-driven guidance. 
+
+I've served as a family restaurant owner at Cafe 100, continued as an electrician apprentice for Light Workers Electric (License C-32190), and currently work as the CAD/CAM Operations Manager and Carpenter for RK Builders (License BC-7556).  
+
+As a supportive employer, technician, and small business owner who has trekked through the hills and valleys of the entrepreneurial landscape, I would be truly grateful to continue this journey with you, serving as your Data Science doer.
+
+Well, if you made it this far, here is a shameless plug. I am the co-founder of a Hawaiian Hardwood guitar company with my best friend, Jeremiah Augustine. “When you are done playing everything else, then play TigerLuv Guitars.” 
+
+---
+
+## Contact
+email: rkobaya@hawaii.edu
+
+LinkedIn: https://www.linkedin.com/in/richardkobayashi/
+
+GitHub: https://github.com/rickkobayashiphd
