@@ -49,7 +49,6 @@
 
 ## About
 ---
-![Rick](images/Rick.jpg)
 
 I am your hard-working PhD, problem solver, and operations manager. I help people work. Now as an aspiring Data Scientist, I seek an internship or volunteer position where I can become better at solving complex problems and serve others with actionable data-driven guidance. 
 
