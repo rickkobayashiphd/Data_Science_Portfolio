@@ -1,7 +1,8 @@
 # Rick Kobayashi
-Current Data Science Projects: an exercise in patience and understanding
+##Current Data Science Projects: an exercise in patience and understanding
 ---
-Project 1: Machine Learning Lab
+
+### Project 1: Machine Learning Lab
 
 "A not-so-serious tool to find Machine Learning Lab friends"
 
@@ -9,8 +10,9 @@ Project 1: Machine Learning Lab
 
 * Showcased a tool that uses an API to create images from text
 * Thank you to RoboHash for this free resource https://robohash.org/
+
 ---
-Project 2: Image Detection Powered By AI
+### Project 2: Image Detection Powered By AI
 
 "Using the Clarifai deep learning AI platform"
 
@@ -18,19 +20,20 @@ Project 2: Image Detection Powered By AI
 
 * Showcased a tool that uses the Clarifai deep learning AI platform and its API to predict with some probability the contents of the .jpg image
 * Thank you to Clarifai for this free resource https://www.clarifai.com/
+
 ---
-[Project 3: Google CoLab project using Kaggle's Natural Language Processing Dataset(work in progress)](https://github.com/rickkobayashiphd/nlp)
+### [Project 3: Google CoLab project using Kaggle's Natural Language Processing Dataset(work in progress)](https://github.com/rickkobayashiphd/nlp)
 
 ![[Kaggle)](images/kaggle.png)
 
 * Predicted with some measure of probability which tweets are disasters and which tweets are not disasters
 * Thank you to Kaggle for this free dataset https://www.kaggle.com/competitions/nlp-getting-started/data
-*
+
 
 ![Results](images/encoder.png "Model Comparison")
 
 ---
-[Project 4: Google Colab project to test models on PubMed Abstract datasets(work in progress)](https://github.com/rickkobayashiphd/pubmed)
+### [Project 4: Google Colab project to test models on PubMed Abstract datasets(work in progress)](https://github.com/rickkobayashiphd/pubmed)
 
 ![Model](images/model.png "Logo Title")
 
