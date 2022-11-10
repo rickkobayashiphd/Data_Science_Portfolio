@@ -1,5 +1,4 @@
 # Rick Kobayashi
----
 Current Data Science Projects: an exercise in patience and understanding
 ---
 Project 1: Machine Learning Lab
@@ -19,7 +18,7 @@ Project 2: Image Detection Powered By AI
 
 * Showcased a tool that uses the Clarifai deep learning AI platform and its API to predict with some probability the contents of the .jpg image
 * Thank you to Clarifai for this free resource https://www.clarifai.com/
-
+---
 [Project 3: Google CoLab project using Kaggle's Natural Language Processing Dataset(work in progress)](https://github.com/rickkobayashiphd/nlp)
 
 ![[Kaggle)](images/kaggle.png)
