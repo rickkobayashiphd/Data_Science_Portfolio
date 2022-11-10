@@ -13,7 +13,7 @@
 * Thank you to RoboHash for this free resource https://robohash.org/
 
 ---
-### Project 2: Image Detection Powered By AI
+### Project 2: Image Detection Powered By AI(work in progress)
 
 "Using the Clarifai deep learning AI platform"
 
