@@ -2,7 +2,6 @@
 **_"Welcome to my Data Science Portfolio. I'm an aspiring Data Scientist. I help people work."_**
 
 ## Current Data Science Projects: An adventure into patience and understanding
----
 
 ### Project 1: Machine Learning Lab
 
