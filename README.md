@@ -52,9 +52,7 @@ I am your hard-working PhD, problem solver, and aspiring Data Scientist. I help 
 
 I've served as a family restaurant owner at Cafe 100, continued as an electrician apprentice for Light Workers Electric (License C-32190), and currently work as the CAD/CAM Operations Manager and Carpenter for RK Builders (License BC-7556).  
 
-As a supportive employer, technician, and small business owner who has trekked through the hills and valleys of the entrepreneurial landscape, I would be truly grateful to continue this journey with you, serving as your Data Science doer.
-
-Well, if you made it this far, here is a shameless plug. I am the co-founder of a Hawaiian Hardwood guitar company with my best friend, Jeremiah Augustine. “When you are done playing everything else, then play TigerLuv Guitars.” 
+As a supportive employer, technician, and small business owner who has trekked through the hills and valleys of the entrepreneurial landscape, I would be truly grateful to continue this journey with you, serving as your Data Science doer. 
 
 ---
 
