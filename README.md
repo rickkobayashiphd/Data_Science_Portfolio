@@ -1,7 +1,7 @@
 # **Rick Kobayashi**
 **_"Welcome to my Data Science Portfolio. I'm an aspiring Data Scientist. I help people work."_**
 
-## Current Data Science Projects: An adventure into patience and understanding
+## Current Data Science Projects: An adventure in patience and understanding
 
 ### [Project 1: Machine Learning Lab](https://github.com/rickkobayashiphd/mandel)
 
@@ -48,11 +48,9 @@
 
 ## **About**
 
-I am your hard-working PhD, problem solver, and aspiring Data Scientist. I help people work. I seek an internship or volunteer position where I can become better at solving complex problems and serve others with actionable data-driven guidance. 
+I am your hard-working PhD, problem solver, and aspiring Data Scientist. I help people work. I seek to become better at solving complex problems and serve others with actionable data-driven guidance. 
 
 I've served as a family restaurant owner at Cafe 100, continued as an electrician apprentice for Light Workers Electric (License C-32190), and currently work as the CAD/CAM Operations Manager and Carpenter for RK Builders (License BC-7556).  
-
-As a supportive employer, technician, and small business owner who has trekked through the hills and valleys of the entrepreneurial landscape, I would be truly grateful to continue this journey with you, serving as your Data Science doer. 
 
 ---
 
