@@ -50,7 +50,7 @@
 
 I am your hard-working PhD, problem solver, and aspiring Data Scientist. I help people work. I seek to become better at solving complex problems and serve others with actionable data-driven guidance. 
 
-I've served as a family restaurant owner at Cafe 100, continued as an electrician apprentice for Light Workers Electric (License C-32190), and currently work as the CAD/CAM Operations Manager and Carpenter for RK Builders (License BC-7556).  
+I've served as a family restaurant owner at Cafe 100, continued as an electrician apprentice for Light Workers Electric (License C-32190), and currently work as the CAD/CAM Operator and Carpenter for RK Builders (License BC-7556).  
 
 ---
 
