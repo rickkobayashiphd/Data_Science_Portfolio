@@ -1,5 +1,5 @@
 # **Rick Kobayashi**
-**_"Welcome to my Data Science Portfolio. I'm an aspiring Data Scientist. I help people work."_**
+**_"Welcome to my Data Science Portfolio. I'm an aspiring problem solver and a compassionate Data Scientist. I help people work."_**
 
 ## Current Data Science Projects: An adventure in patience and understanding
 
