@@ -1,5 +1,5 @@
 # **Rick Kobayashi**
-**_"Welcome to my Data Science Portfolio. I'm an aspiring problem solver and a compassionate Data Scientist. I help people work."_**
+**_"Welcome to my Data Science Portfolio. I'm an aspiring problem solver and a compassionate Data Scientist. I help people do good work."_**
 
 ## Current Data Science Projects: An adventure in patience and understanding
 
@@ -48,7 +48,7 @@
 
 ## **About**
 
-I am your hard-working PhD, problem solver, and aspiring Data Scientist. I help people work. I seek to understand your needs clearly so I can become better at solving complex problems and serve others with integrity, compassion, and with actionable data-driven guidance. 
+I am your hard-working PhD, problem solver, and aspiring Data Scientist. I help people do good work. I seek to understand your needs clearly so I can become better at solving complex problems and serve others with integrity, compassion, and with actionable data-driven guidance. 
 
 I've served as a family restaurant owner at Cafe 100, continued as an electrician apprentice for Light Workers Electric (License C-32190), and currently work as the CAD/CAM Operator and Carpenter for RK Builders (License BC-7556). I am the co-founder of TigerLuv Guitars.
 
