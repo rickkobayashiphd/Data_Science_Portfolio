@@ -1,5 +1,5 @@
 # **Rick Kobayashi**
-**_"Welcome to my Data Science Portfolio. I'm a compassionate Data Scientist. I help people do good work."_**
+**_"Welcome to my Data Science Portfolio. I am a compassionate Data Scientist. I help people do good work."_**
 
 ## Current Data Science Projects: An adventure in patience and understanding
 
