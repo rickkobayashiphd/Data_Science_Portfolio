@@ -48,7 +48,8 @@
 
 ## **About**
 
-I am your hard-working PhD, problem solver, and aspiring Data Scientist. I seek to understand your needs clearly so I can become better at solving your complex problems so you can continue doing good work. 
+I am your hard-working PhD, curious problem solver, and aspiring Data Scientist. 
+I seek to understand your needs in order to help you do good work. 
 I serve with integrity, compassion, and with actionable data-driven guidance.
 
 * 12 years experience in the hospitality and family restaurant business at Cafe 100:
