@@ -58,7 +58,7 @@ https://cafe100.com/
 * 2 years experience as the CNC, Laser Engraver, CAD/CAM Operator and Carpenter for RK Builders (License BC-7556): 
 https://www.rkwoodshawaii.com/
 
-* 2 years experience with a start-up as the co-founder of TigerLuv Guitars:
+* 2 years start-up experience as the co-founder of TigerLuv Guitars:
 https://tigerluv.com/
 
 * 2 years experience as an electrician apprentice for Light Workers Electric (License C-32190)
