@@ -50,7 +50,7 @@
 
 I am your hard-working PhD, curious problem solver, and aspiring Data Scientist. 
 I seek to understand your needs in order to help you do good work. 
-I serve with integrity, compassion, and with actionable data-driven guidance.
+I serve with integrity, compassion, and data-driven guidance.
 
 * 12 years experience in the hospitality and family restaurant business at Cafe 100:
 https://cafe100.com/
