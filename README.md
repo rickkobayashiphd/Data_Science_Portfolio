@@ -1,5 +1,5 @@
 # **Rick Kobayashi**
-**_"Welcome to my Data Science Portfolio. I am a compassionate Data Scientist. I help people do good work."_**
+**_"Welcome to my Data Science Portfolio. I am a grateful Data Scientist. I help people do good work."_**
 
 ## Current Data Science Projects: An adventure in patience and understanding
 
@@ -48,14 +48,14 @@
 
 ## **About**
 
-I am your hard-working PhD, curious problem solver, and aspiring Data Scientist. 
-I seek to understand your needs in order to help you do good work. 
-I serve with integrity, compassion, and data-driven guidance.
+I am your hard-working PhD, curious problem solver, and compassionate Data Scientist. 
+I seek to understand your needs so I can support your good work. 
+I serve with integrity, gratitude, and data-driven guidance.
 
-* 12 years experience in the hospitality and family restaurant business at Cafe 100:
+* 12 years experience in the family restaurant business at Cafe 100:
 https://cafe100.com/
 
-* 2 years experience as the CNC, Laser Engraver, CAD/CAM Operator and Carpenter for RK Builders (License BC-7556): 
+* 2 years experience as the CNC, Laser Engraver, and Carpenter for RK Builders (License BC-7556): 
 https://www.rkwoodshawaii.com/
 
 * 2 years start-up experience as the co-founder of TigerLuv Guitars:
