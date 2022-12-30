@@ -48,20 +48,17 @@
 
 ## **About**
 
-I am your hard-working PhD, curious problem solver, and compassionate Data Scientist. 
-I seek to understand your needs so I can support your good work. 
+I am your hard-working Industrial/Organizational PhD, curious problem solver, and compassionate Data Scientist.
+I seek to deeply understand your needs so I can support your good work. 
 I serve with integrity, gratitude, and data-driven guidance.
 
-* 12 years experience in the family restaurant business at Cafe 100:
-https://cafe100.com/
+* Twelve years management experience in the family restaurant business at Cafe 100: https://cafe100.com/
 
-* 2 years experience as the CNC, Laser Engraver, and Carpenter for RK Builders (License BC-7556): 
-https://www.rkwoodshawaii.com/
+* Two years experience as the product designer, CNC & Laser Engraver, and Carpenter for RK Builders: https://www.rkwoodshawaii.com/
 
-* 2 years start-up experience as the co-founder of TigerLuv Guitars:
-https://tigerluv.com/
+* Two years start-up experience as the co-founder of TigerLuv Guitars: https://tigerluv.com/
 
-* 2 years experience as an electrician apprentice for Light Workers Electric (License C-32190)
+* Two years experience as an electrician apprentice for Light Workers Electric (License C-32190)
 
 ---
 
