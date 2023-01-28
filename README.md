@@ -54,9 +54,9 @@ I serve with integrity, gratitude, and data-driven guidance.
 
 * Twelve years management experience in the family restaurant business at Cafe 100: https://cafe100.com/
 
-* Three years experience as the product designer, CNC & Laser Engraver, and Carpenter for RK Builders: https://www.rkwoodshawaii.com/
+* Two years experience as the product designer, CNC & Laser Engraver, and Carpenter for RK Builders: https://www.rkwoodshawaii.com/
 
-* Three years start-up experience as the co-founder of TigerLuv Guitars: https://tigerluv.com/
+* Two years start-up experience as the co-founder of TigerLuv Guitars: https://tigerluv.com/
 
 * Three years experience as an electrician apprentice for Light Workers Electric (License C-32190)
 
